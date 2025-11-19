@@ -15,7 +15,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/getditto/DittoSwiftPackage", exact: "4.12.3")
+        .package(url: "https://github.com/getditto/DittoSwiftPackage", exact: "4.13.0")
     ],
     targets: [
         .target(
@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "InseatFramework",
-            url: "https://app-cdn.immflyretail.link/inseat-ios-sdk/0.1.19/Inseat.xcframework.zip",
-            checksum: "eb6c015ace991cd0300994b54500f25348fcd647754ac78998a4014fb4c015d0"
+            url: "https://app-cdn.immflyretail.link/inseat-ios-sdk/0.1.20/Inseat.xcframework.zip",
+            checksum: "e7d6e3db328e2c27eec90843c5384bbafcfe96de741068220511e0cbcee5631a"
         )
     ]
 )
