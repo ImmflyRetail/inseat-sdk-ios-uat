@@ -28,7 +28,7 @@ let package = Package(
         .binaryTarget(
             name: "InseatFramework",
             url: "https://app-cdn.immflyretail.link/inseat-ios-sdk/1.0.7/Inseat.xcframework.zip",
-            checksum: "94b8573ffa586a670a94d0a21b9f74eafc81c0e239bca448aed7d5ca07cf29e7"
+            checksum: "c70e1ea5c3eb1d6083b70e48eae67772f88e59bd559612eb5912492d23c1a876"
         )
     ]
 )
